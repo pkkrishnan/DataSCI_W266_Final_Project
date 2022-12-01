@@ -24,5 +24,6 @@ The model code folder contains model codes for the following abstractive models.
 - Sentence level built from scratch using the original Bert Model 
 - Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
 
-
+## Final Report and Slide Deck
+The final report and slide deck are contained in this folder
 
