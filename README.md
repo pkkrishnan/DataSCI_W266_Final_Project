@@ -10,4 +10,14 @@ MediaSum data set on Hugging Face is used for model evaluation. This large-scale
 MediaSum Link: https://huggingface.co/datasets/ccdv/mediasum
 CNN Dailymail Link: https://huggingface.co/datasets/ccdv/cnn_dailymail
 
+## Model Code
+The model code folder contains model codes for the following extractive models.
+- TFIDF	            
+- Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
+- Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
+- Sentence level built from scratch using the original Bert Model 
+- Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
+
+
+
 
