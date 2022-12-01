@@ -18,6 +18,11 @@ The model code folder contains model codes for the following extractive models.
 - Sentence level built from scratch using the original Bert Model 
 - Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
 
+The model code folder contains model codes for the following abstractive models.       
+- Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
+- Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
+- Sentence level built from scratch using the original Bert Model 
+- Pre-trained sentence transformer (‘all-MiniLM-L6-v2’) with sentence-level embeddings 
 
 
 
